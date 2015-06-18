@@ -1,5 +1,5 @@
 task :default => [:test]
-task :tt => :test2 do
+task :test => :test2 do
   puts "hey There"
 end
 
