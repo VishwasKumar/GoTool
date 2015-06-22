@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cruisecontrol>
+  <info>
+    <property name="logdir" value="/Users/kumarvis/Library/Application Support/Go Agent/pipelines/go_tool/cruise-output" />
+    <property name="logfile" value="log.xml" />
+  </info>
+  <build time="0 minute(s) 0 second(s)">
+    <target name="exec">
+      <task name="/bin/sh" />
+    </target>
+  </build>
+  <build time="0 minute(s) 0 second(s)">
+    <target name="exec">
+      <task name="/bin/bash" />
+    </target>
+  </build>
+  <build time="0 minute(s) 0 second(s)">
+    <target name="exec">
+      <task name="rake" />
+    </target>
+  </build>
+  <build time="0 minute(s) 0 second(s)">
+    <target name="exec">
+      <task name="/bin/sh" />
+    </target>
+  </build>
+</cruisecontrol>
+
