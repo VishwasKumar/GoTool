@@ -1,3 +1,3 @@
 echo "This is exported variable"
-echo $version
+echo $1
 echo "This is end"
