@@ -1,5 +1,5 @@
 Go tool
 ===
 
-Advanced continous integrationa and release management system.
+Advanced continous integration and release management system.
 
